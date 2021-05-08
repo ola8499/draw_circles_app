@@ -1,0 +1,6 @@
+
+ttt  148 108
+  położenie: 0 0
+jj 0 położenie: 64 125
+  położenie: 3 0
+jjjjj  położenie: 3 0
